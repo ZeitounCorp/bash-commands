@@ -1,0 +1,17 @@
+{
+  "name": "bash-commands",
+  "version": "1.0.0",
+  "description": "Suite of bash commands that can directly be called from nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "build-doc": "jsdoc ./ -r -c ./jsdoc.conf.json -d docs",
+    "test-tool": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jsdoc": "^3.6.10"
+  }
+}
