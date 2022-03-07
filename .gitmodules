@@ -1,0 +1,3 @@
+[submodule "packages/ls_"]
+	path = packages/ls_
+	url = https://github.com/ZeitounCorp/bash-commands-ls.git
