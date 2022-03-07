@@ -8,9 +8,11 @@
     "test-tool": "node"
   },
   "keywords": [],
-  "author": "",
+  "author": "ZeitounCorp",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "bash": "0.0.1"
+  },
   "devDependencies": {
     "jsdoc": "^3.6.10"
   }
