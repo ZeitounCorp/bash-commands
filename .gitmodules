@@ -1,3 +1,6 @@
 [submodule "packages/ls_"]
 	path = packages/ls_
 	url = https://github.com/ZeitounCorp/bash-commands-ls.git
+[submodule "packages/echo_"]
+	path = packages/echo_
+	url = https://github.com/ZeitounCorp/bash-commands-echo.git

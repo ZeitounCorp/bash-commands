@@ -1,4 +1,4 @@
-const ls = require('./packages/ls_/');
+const ls = require('./src/ls');
 
 /**
  * Test section
