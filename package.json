@@ -7,7 +7,7 @@
     "patch": "npm version patch",
     "minor": "npm version minor",
     "major": "npm version major",
-    "pub": "npm publish --access public",
+    "pub": "npm publish",
     "build-doc": "jsdoc ./ -r -c ./jsdoc.conf.json -d docs",
     "test-tool": "node"
   },
