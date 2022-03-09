@@ -10,7 +10,7 @@
 ## List of bash commands
 
 - [x] ls [(standalone library here)](https://github.com/ZeitounCorp/bash-commands-ls)
-- [ ] echo
+- [x] echo [(standalone library here)](https://github.com/ZeitounCorp/bash-commands-echo)
 - [ ] cat
 - [ ] grep
 - [ ] sed

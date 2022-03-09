@@ -1,3 +1,4 @@
+const echo = require('./src/echo');
 const ls = require('./src/ls');
 
 /**
@@ -13,8 +14,16 @@ const ls = require('./src/ls');
       },
     })
   );
+
+  // Testing echo command
+  echo('hello world', {
+    color: 'red',
+    background: 'black',
+    filter: 'bright',
+  });
 })();
 
 module.exports = {
   ls,
+  echo,
 };
