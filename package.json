@@ -4,6 +4,10 @@
   "description": "Suite of bash commands that can directly be called from nodeJs",
   "main": "index.js",
   "scripts": {
+    "patch": "npm version patch",
+    "minor": "npm version minor",
+    "major": "npm version major",
+    "pub": "npm publish --access public",
     "build-doc": "jsdoc ./ -r -c ./jsdoc.conf.json -d docs",
     "test-tool": "node"
   },
