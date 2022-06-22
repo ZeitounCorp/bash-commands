@@ -1,5 +1,6 @@
 const echo = require('./src/echo');
 const ls = require('./src/ls');
+const sleep = require('./src/sleep');
 
 /**
  * Test section
@@ -21,9 +22,13 @@ const ls = require('./src/ls');
     background: 'black',
     filter: 'bright',
   });
+
+  // Testing sleep command
+  await sleep(1);
 })();
 
 module.exports = {
   ls,
   echo,
+  sleep,
 };

@@ -21,11 +21,11 @@
 - [ ] find
 - [ ] which
 - [ ] kill
-- [ ] sleep
+- [x] sleep [(standalone library here)](https://github.com/ZeitounCorp/bash-commands-sleep)
 - [ ] clear
 - [ ] touch
 - [ ] pwd
 
 ## License
 
-  [![License: ISC](https://img.shields.io/badge/License-ISC-red.svg)](https://opensource.org/licenses/ISC)
+[![License: ISC](https://img.shields.io/badge/License-ISC-red.svg)](https://opensource.org/licenses/ISC)

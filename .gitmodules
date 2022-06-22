@@ -4,3 +4,6 @@
 [submodule "packages/echo_"]
 	path = packages/echo_
 	url = https://github.com/ZeitounCorp/bash-commands-echo.git
+[submodule "packages/sleep_"]
+	path = packages/sleep_
+	url = https://github.com/ZeitounCorp/bash-commands-sleep.git
